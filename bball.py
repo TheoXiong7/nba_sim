@@ -23,7 +23,7 @@ class Team():
 		self.players.append(Center(self))
 
 		self.players.sort(key=lambda x: x.get('height'), reverse=True)
-
+		self.set_team_ovr()
 
 	def team_info(self):
 		print(self.team_name)
@@ -39,6 +39,11 @@ class Team():
 
 	def random_player(self):
 		return random.choice(self.players)
+
+	def set_team_ovr(self):
+		for p in self.players:
+			p.set_ovr()
+
 
 class Player():
 
@@ -203,7 +208,7 @@ class Player():
 		return random.choice(self.team.players)
 
 	def set_ovr(self):
-		self.overall = int((sum(self.attributes.values()) - self.attributes['block'] - self.attributes['steal']) /  (len(self.attributes) - 2)) + 5
+		self.overall = int((sum(self.attributes.values()) - self.attributes['block'] - self.attributes['steal'] + ((self.body['height'] + self.body['speed']) / 2)) /  len(self.attributes)) + 5
 
 
 class PointGuard(Player):

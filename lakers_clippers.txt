@@ -1,0 +1,22 @@
+1620650911.517015
+
+
+
+lakers vs clippers
+Final Score: [109, 147]
+
+
+lakers Stats:
+Player: 510123		Points: {'pts': 21, 'fga': 17, 'fgm': 9, '3pa': 9, '3pm': 3}
+Player: 733309		Points: {'pts': 26, 'fga': 17, 'fgm': 10, '3pa': 7, '3pm': 6}
+Player: Lebron		Points: {'pts': 11, 'fga': 14, 'fgm': 5, '3pa': 5, '3pm': 1}
+Player: 728199		Points: {'pts': 33, 'fga': 22, 'fgm': 14, '3pa': 9, '3pm': 5}
+Player: 368631		Points: {'pts': 18, 'fga': 15, 'fgm': 8, '3pa': 5, '3pm': 2}
+
+
+clippers Stats:
+Player: 936307		Points: {'pts': 41, 'fga': 21, 'fgm': 16, '3pa': 12, '3pm': 9}
+Player: 767164		Points: {'pts': 39, 'fga': 21, 'fgm': 17, '3pa': 8, '3pm': 5}
+Player: PG13		Points: {'pts': 25, 'fga': 18, 'fgm': 11, '3pa': 9, '3pm': 3}
+Player: 898299		Points: {'pts': 18, 'fga': 12, 'fgm': 7, '3pa': 5, '3pm': 4}
+Player: 587956		Points: {'pts': 24, 'fga': 13, 'fgm': 11, '3pa': 4, '3pm': 2}

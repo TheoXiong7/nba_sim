@@ -152,7 +152,7 @@ class Player():
 
 		chance = (self.get('height') - matchup.get('height')) + (self.get('speed') - matchup.get('speed'))
 		chance += self.get('finishing') - matchup_defense
-		chance += random.randint(0, 30)
+		chance += random.randint(0, 50)
 		#print(chance)
 		if chance < 40:
 			chance = 40
@@ -421,7 +421,7 @@ class Game():
 		}
 		#self.start_game()
 
-	def start_game(self):
+	def start(self):
 		
 		# set matchups
 		for i in range(len(self.team1.players)):
@@ -451,8 +451,6 @@ class Game():
 		print('{} Stats:'.format(t2_name))
 		for s in self.team2_stats:
 			print('Player: {}\t\tStats: {}'.format(s, self.team2_stats[s]))
-
-		self.save_stats()
 
 	def save_stats(self):
 		t1_name = self.team1.team_name

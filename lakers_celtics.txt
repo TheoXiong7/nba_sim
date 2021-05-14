@@ -1,22 +1,22 @@
-1620654819.327244
+1620821546.8061728
 
 
 
 lakers vs celtics
-Final Score: [101, 106]
+Final Score: [91, 91]
 
 
 lakers Stats:
-Player: 170703		Points: {'pts': 25, 'fga': 27, 'fgm': 10, '3pa': 16, '3pm': 5}
-Player: 298969		Points: {'pts': 8, 'fga': 16, 'fgm': 3, '3pa': 9, '3pm': 2}
-Player: 479961		Points: {'pts': 17, 'fga': 18, 'fgm': 7, '3pa': 6, '3pm': 3}
-Player: 146974		Points: {'pts': 21, 'fga': 21, 'fgm': 8, '3pa': 11, '3pm': 5}
-Player: 331314		Points: {'pts': 30, 'fga': 18, 'fgm': 12, '3pa': 10, '3pm': 6}
+Player: 690322		Points: {'pts': 8, 'fga': 16, 'fgm': 4, '3pa': 7, '3pm': 0}
+Player: 260215		Points: {'pts': 13, 'fga': 22, 'fgm': 6, '3pa': 12, '3pm': 1}
+Player: 818018		Points: {'pts': 19, 'fga': 16, 'fgm': 8, '3pa': 9, '3pm': 3}
+Player: 181737		Points: {'pts': 26, 'fga': 30, 'fgm': 11, '3pa': 15, '3pm': 4}
+Player: 978362		Points: {'pts': 25, 'fga': 16, 'fgm': 9, '3pa': 10, '3pm': 7}
 
 
 celtics Stats:
-Player: 585900		Points: {'pts': 14, 'fga': 18, 'fgm': 6, '3pa': 11, '3pm': 2}
-Player: 823692		Points: {'pts': 18, 'fga': 21, 'fgm': 7, '3pa': 12, '3pm': 4}
-Player: 473438		Points: {'pts': 42, 'fga': 26, 'fgm': 17, '3pa': 15, '3pm': 8}
-Player: 167161		Points: {'pts': 12, 'fga': 17, 'fgm': 5, '3pa': 6, '3pm': 2}
-Player: 101081		Points: {'pts': 20, 'fga': 18, 'fgm': 8, '3pa': 8, '3pm': 4}
+Player: 940437		Points: {'pts': 13, 'fga': 19, 'fgm': 6, '3pa': 9, '3pm': 1}
+Player: 487589		Points: {'pts': 23, 'fga': 19, 'fgm': 9, '3pa': 8, '3pm': 5}
+Player: 493097		Points: {'pts': 20, 'fga': 20, 'fgm': 8, '3pa': 10, '3pm': 4}
+Player: 451024		Points: {'pts': 22, 'fga': 24, 'fgm': 10, '3pa': 9, '3pm': 2}
+Player: 914420		Points: {'pts': 13, 'fga': 18, 'fgm': 5, '3pa': 8, '3pm': 3}

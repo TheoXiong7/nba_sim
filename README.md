@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c88747bbd6434dfea8e41b21ebc2c82b)](https://www.codacy.com/gh/TheoXiong7/nba_sim/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TheoXiong7/nba_sim&amp;utm_campaign=Badge_Grade)
+
 # nba_sim
  
 ## About
